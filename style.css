@@ -1,0 +1,20 @@
+.customeButton {
+    background-color: #2e3192;
+}
+.customColor {
+    color: #2e3192;
+    font-size: 15px;
+}
+a {
+    text-decoration: none;
+}
+.image img{
+    width: 50%;
+    max-width: 1000px;
+    min-width: 380px;
+
+}
+
+.container {
+    background-size: cover;
+}
